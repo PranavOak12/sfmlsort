@@ -72,7 +72,6 @@ std::vector<int> wavelength_to_rgb(double wavelength, double gamma)
     int intG = static_cast<int>(G * 255);
     int intB = static_cast<int>(B * 255);
 
-    // Create a vector and store the RGB values
     std::vector<int> rgbVector = {intR, intG, intB};
 
     return rgbVector;
