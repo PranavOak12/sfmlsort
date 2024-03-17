@@ -1,0 +1,3 @@
+F:/cppsfml/SORTINGVISUSFML/build/CMakeFiles/testsfml.dir
+F:/cppsfml/SORTINGVISUSFML/build/CMakeFiles/edit_cache.dir
+F:/cppsfml/SORTINGVISUSFML/build/CMakeFiles/rebuild_cache.dir
