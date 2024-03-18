@@ -1,3 +1,0 @@
-"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\testsfml.dir/objects.a
-C:\msys64\mingw64\bin\ar.exe qc CMakeFiles\testsfml.dir/objects.a @CMakeFiles\testsfml.dir\objects1.rsp
-C:\msys64\mingw64\bin\g++.exe -Wl,--whole-archive CMakeFiles\testsfml.dir/objects.a -Wl,--no-whole-archive -o testsfml.exe -Wl,--out-implib,libtestsfml.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\testsfml.dir\linkLibs.rsp
