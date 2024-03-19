@@ -11,8 +11,5 @@ set(SOURCES
 
 # Add your project executable
 add_executable(testsfml ${SOURCES})
-
-add_compile_options(-Wl,--stack,4432)
-
 find_package(SFML REQUIRED COMPONENTS system window graphics)
 target_link_libraries(testsfml PRIVATE sfml-graphics sfml-window sfml-system)
